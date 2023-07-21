@@ -1,0 +1,25 @@
+.sobre__descripcion{
+    color: #8C8888;
+    width: 999pxpx;
+    height: 168px; 
+    top: 869px; 
+    left: -590px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+@media screen and (min-width: 0){
+    .sobre__descripcion{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 0){
+    .sobre__descripcion{
+        font-size: 1.75rem;
+    }
+}   
